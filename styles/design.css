@@ -157,3 +157,16 @@ body {
     line-height: 25px;
     justify-content: space-around;
 }
+
+.deals {
+    height: 620px;
+    width: auto;
+    height: 620px;
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    padding: 2% 8% 0 10%;
+    margin-top: 60px;
+}
