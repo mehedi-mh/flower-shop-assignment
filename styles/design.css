@@ -184,3 +184,52 @@ body {
     width: 90%;
     margin: 3% auto;
 }
+
+
+.latest {
+    background-image: url("../images/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    margin: 80px;
+    width: 80%;
+    height: 400px;
+    margin: 7% 10% 7% 10%;
+    border-radius: 8px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 25px;
+    justify-content: space-around;
+}
+
+.contact {
+    display: flex;
+
+}
+
+.text {
+    text-align: center;
+}
+
+
+.contact input[type="email"] {
+    display: block;
+    margin-top: 23px;
+    padding: 22px 35px;
+    color: #757575;
+    border-radius: 5px;
+    background: #FFF;
+    border: 0;
+    width: 400px;
+}
+
+.mail {
+    margin-left:5%;
+    width: 95%;
+}
+
+.subscribe {
+    margin-left: 3%;
+}
