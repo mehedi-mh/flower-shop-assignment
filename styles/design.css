@@ -170,3 +170,17 @@ body {
     padding: 2% 8% 0 10%;
     margin-top: 60px;
 }
+
+.insta {
+    width: auto;
+    align-items: center;
+    text-align: center;
+    margin-top: 7%;
+}
+
+.insta-img {
+    display: flex;
+    justify-content: space-evenly;
+    width: 90%;
+    margin: 3% auto;
+}
